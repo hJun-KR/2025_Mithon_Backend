@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" data-name="레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1366 768">
+  <!-- Generator: Adobe Illustrator 29.8.2, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: #05baae;
+      }
+
+      .st1 {
+        stroke: #05baae;
+      }
+
+      .st1, .st2, .st3 {
+        stroke-miterlimit: 10;
+      }
+
+      .st2 {
+        stroke: #000;
+      }
+
+      .st3 {
+        fill: none;
+        stroke: #f6bcb8;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M634.07,312.51c-.22-.22-113.69-56.44-37.24-137.1,0,0,111.73-62.32,140.88,81.9,0,0,8.1,37.39,29.15,28.49s152.21,0,152.21,0c0,0,53.44-3.56,53.44,65.88,0,0,12.95,42.73-12.95,92.59,0,0-38.86,14.24-48.58-23.15-9.72-37.39-29.15-16.02-29.15-16.02,0,0-40.48,81.9-93.92,5.34,0,0-84.2,144.22-136.02-39.17l-8.1-58.09-9.72-.67Z"/>
+  <path class="st3" d="M726-127"/>
+  <path class="st1" d="M963.43,318.96s51.35-19.07,5.79,18.02"/>
+  <ellipse class="st2" cx="610.49" cy="222.68" rx="7.35" ry="8.08"/>
+</svg>

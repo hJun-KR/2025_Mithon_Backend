@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 871.44 1564.11">
+  <!-- Generator: Adobe Illustrator 29.8.2, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #c4e6e8;
+        stroke: #05baae;
+        stroke-width: 14px;
+      }
+
+      .st0, .st1 {
+        stroke-miterlimit: 10;
+      }
+
+      .st1 {
+        fill: #05baae;
+        stroke: #f6bcb8;
+      }
+
+      .st2 {
+        fill: #fef6f5;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M864.44,799.79c0,274.12-191.94,389.5-428.72,389.5S7,1072.33,7,798.21,198.95,196.6,435.72,196.6s428.72,329.07,428.72,603.19Z"/>
+  <ellipse class="st1" cx="264.25" cy="495.27" rx="141.13" ry="96.01" transform="translate(-296.96 508.12) rotate(-63.23)"/>
+  <ellipse class="st1" cx="697.42" cy="795.81" rx="96.01" ry="141.13" transform="translate(-158.33 173.39) rotate(-12.74)"/>
+  <ellipse class="st1" cx="199.35" cy="935.11" rx="96.01" ry="141.13" transform="translate(-201.31 66.98) rotate(-12.74)"/>
+  <ellipse class="st1" cx="109.43" cy="712.17" rx="37.45" ry="25.48" transform="translate(-608.4 774.41) rotate(-86.22)"/>
+  <ellipse class="st1" cx="671.87" cy="472.12" rx="25.48" ry="37.45" transform="translate(-133.89 313.81) rotate(-23.98)"/>
+  <ellipse class="st1" cx="570.89" cy="1059.56" rx="37.45" ry="25.48" transform="translate(-616.39 1256.87) rotate(-71.12)"/>
+  <ellipse class="st1" cx="423.27" cy="754.5" rx="54.17" ry="36.85" transform="translate(-357.49 1127.11) rotate(-86.22)"/>
+  <path class="st2" d="M223.14,1227.88l5.62,15.32s-18.66,7.37-18.38-3.06c.28-10.43,12.77-12.26,12.77-12.26Z"/>
+  <path class="st2" d="M234.89,1257.76l5.62,15.32s-18.66,7.37-18.38-3.06,12.77-12.26,12.77-12.26Z"/>
+  <path class="st2" d="M253.28,1284.22l5.62,15.32s-18.66,7.37-18.38-3.06,12.77-12.26,12.77-12.26Z"/>
+  <path class="st2" d="M484.99,1284.22l5.62,15.32s-18.66,7.37-18.38-3.06,12.77-12.26,12.77-12.26Z"/>
+  <path class="st2" d="M466.6,1257.76l5.62,15.32s-18.66,7.37-18.38-3.06,12.77-12.26,12.77-12.26Z"/>
+  <path class="st2" d="M453.84,1227.88l5.62,15.32s-18.66,7.37-18.38-3.06,12.77-12.26,12.77-12.26Z"/>
+</svg>
